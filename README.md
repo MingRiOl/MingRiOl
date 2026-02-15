@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6CE8F7&center=true&vCenter=true&width=940&lines=Hi+there!+👋+I'm+Raymond+Lee;A+Coding+Beginner+on+a+Learning+Journey!;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2800&pause=2000&color=6CE8F7&center=true&vCenter=true&width=940&lines=Hi+there!+👋+I'm+Raymond+Lee;A+Coding+Beginner+on+a+Learning+Journey!;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -51,14 +51,19 @@ I'm a coding beginner, just started my programming journey!
 
 ### Phase 1: Python Basics (In Progress 🔥)
 
-<img align="right" alt="Python Learning" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img align="left" alt="Python Learning" width="280" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
-- [x] Install Python and development environment
-- [x] Learn variables, data types, and operators
-- [ ] Master conditional statements and loops
-- [ ] Understand functions and modules
-- [ ] Learn file operations and exception handling
+```
+  [x] Install Python and development environment
 
+  [x] Learn variables, data types, and operators
+
+  [ ] Master conditional statements and loops
+
+  [ ] Understand functions and modules
+
+  [ ] Learn file operations and exception handling
+```
 <br clear="both">
 
 <div align="center">
@@ -67,12 +72,17 @@ I'm a coding beginner, just started my programming journey!
 
 ### Phase 2: Intermediate Learning (Planned 📝)
 
-<img align="right" alt="Advanced Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<img align="right" alt="Advanced Coding" width="160" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-- [ ] Object-Oriented Programming (OOP)
-- [ ] Common libraries (requests, pandas, etc.)
-- [ ] Data structures and algorithms basics
-- [ ] Introduction to web development
+```
+  [ ] Object-Oriented Programming (OOP)
+
+  [ ] Common libraries (requests, pandas, etc.)
+
+  [ ] Data structures and algorithms basics
+
+  [ ] Introduction to web development
+```
 
 <br clear="both">
 
@@ -82,12 +92,14 @@ I'm a coding beginner, just started my programming journey!
 
 ### Phase 3: Project Practice (Dreaming ✨)
 
-<img align="right" alt="Building Projects" width="300" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+<img align="left" alt="Building Projects" width="230" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
-- [ ] Build a command-line tool
-- [ ] Create a data analysis project
-- [ ] Develop a personal website
-- [ ] Try web scraping or automation scripts
+```
+  [ ] Build a command-line tool
+  [ ] Create a data analysis project
+  [ ] Develop a personal website
+  [ ] Try web scraping or automation scripts
+```
 
 <br clear="both">
 
@@ -107,7 +119,7 @@ I'm a coding beginner, just started my programming journey!
 
 ## 💡 Learning Resources
 
-<img align="right" alt="Learning" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Learning" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 📚 Resources I'm using:
 - [Python Official Documentation](https://docs.python.org/3/)
