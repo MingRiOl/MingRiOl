@@ -67,16 +67,7 @@ I'm a coding beginner, just started my programming journey!
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MingRiOl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingRiOl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="180em"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MingRiOl&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MingRiOl&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ## 💡 Learning Resources
@@ -127,8 +118,6 @@ As a programming newbie, I believe:
 <div align="center">
   
   **⭐️ If you're also a coding beginner, let's connect and grow together!**
-  
-  ![Visitor Count](https://profile-counter.glitch.me/MingRiOl/count.svg)
   
 </div>
 
