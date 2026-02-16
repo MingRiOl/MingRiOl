@@ -2,7 +2,8 @@
 # 👋 Hi there, I'm a Coding Beginner!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2800&pause=2000&color=6CE8F7&center=true&vCenter=true&width=940&lines=👋👋+I'm+Raymond+Lee +🚀;Welcome+to+My+GitHub+Profile!+✨" alt="Typing SVG" />
+🚀 Welcome to my coding journey!
+Learning Python step by step 🐍 | Building projects and growing daily 🌱
 </div>
 
 
@@ -73,7 +74,7 @@ I'm a coding beginner, just started my programming journey!
 
 ### Phase 1: Python Basics (In Progress 🔥)
 
-![Progress](https://progress-bar.dev/40/?title=Progress&width=300&color=2e9ef7)
+Progress: ████████░░░░░░░░░░░░ 40% (2/5 completed)
 
 - [x] Install Python and development environment 💻
 - [x] Learn variables, data types, and operators 🔢
@@ -83,7 +84,7 @@ I'm a coding beginner, just started my programming journey!
 
 ### Phase 2: Intermediate Learning (Planned 📝)
 
-![Progress](https://progress-bar.dev/0/?title=Progress&width=300&color=bababa)
+Progress: ░░░░░░░░░░░░░░░░░░░░ 0% (0/4 completed)
 
 - [ ] Object-Oriented Programming (OOP) 🏗️
 - [ ] Common libraries (requests, pandas, etc.) 📚
@@ -92,7 +93,7 @@ I'm a coding beginner, just started my programming journey!
 
 ### Phase 3: Project Practice (Dreaming ✨)
 
-![Progress](https://progress-bar.dev/0/?title=Progress&width=300&color=bababa)
+Progress: ░░░░░░░░░░░░░░░░░░░░ 0% (0/4 completed)
 
 - [ ] Build a command-line tool 🛠️
 - [ ] Create a data analysis project 📊
@@ -121,10 +122,6 @@ I'm a coding beginner, just started my programming journey!
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MingRiOl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e9ef7&icon_color=2e9ef7&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MingRiOl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MingRiOl&theme=tokyonight&hide_border=true&background=0d1117&ring=2e9ef7&fire=2e9ef7&currStreakLabel=2e9ef7)
 
@@ -172,7 +169,7 @@ I'm a coding beginner, just started my programming journey!
     </td>
     <td align="center" width="25%">
       <a href="https://realpython.com/">
-        <img src="https://raw.githubusercontent.com/realpython/design-assets/master/logos/logo-text.svg" width="100px" alt="Real Python"/>
+        <img src="https://realpython.com/static/real-python-logo.893c30edea53.svg" width="100px" alt="Real Python"/>
       </a>
       <br />
       <strong>Real Python</strong>
