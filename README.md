@@ -1,32 +1,51 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2800&pause=2000&color=6CE8F7&center=true&vCenter=true&width=940&lines=Hi+there!+👋+I'm+Raymond+Lee;A+Coding+Beginner+on+a+Learning+Journey!;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
-</div>
+
+# 👋 Hi there, I'm a Coding Beginner!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2800&pause=2000&color=6CE8F7&center=true&vCenter=true&width=940&lines=👋👋+I'm+Raymond+Lee +🚀;Welcome+to+My+GitHub+Profile!+✨" alt="Typing SVG" />
+</div>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
 ## 🌱 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 I'm a coding beginner, just started my programming journey!
 
-- 🎓 Currently Learning: **Python**
-- 💡 Interests: Exploring the endless possibilities of programming
-- 🎯 2026 Learning Goals:
-  - ✨ Master Python fundamentals and core concepts
-  - 🔨 Complete 3 hands-on projects independently
-  - 📚 Learn a web framework (Flask or Django)
-  - 🤝 Contribute to at least 1 open-source project
-  - 💪 Build a daily coding habit
+- 🎓 Currently Learning: **Python** 🐍
+- 💡 Interests: Exploring the endless possibilities of programming 🌐
+- 🌍 Location: Learning from anywhere in the world 🌏
+- 📅 Started Coding: 2026
 
-<br clear="both">
+### ⚡ 2026 Learning Goals
+
+- ✨ Master Python fundamentals and core concepts 📚
+- 🔨 Complete 3 hands-on projects independently 🛠️
+- 🌐 Learn a web framework (Flask or Django) 🏗️
+- 🤝 Contribute to at least 1 open-source project 💻
+- 💪 Build a daily coding habit 📅
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 🔥 Currently Working On
+
+- 📖 **Learning**: Conditional statements and loops in Python
+- 💻 **Building**: Practice exercises from Python tutorials
+- 📚 **Reading**: Python documentation and online resources
+- 🎯 **Next Up**: Functions and modules
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ## 🛠️ Technologies I'm Learning
 
 <div align="center">
-  
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -39,120 +58,6 @@ I'm a coding beginner, just started my programming journey!
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-</div>
-
-## 📈 Learning Roadmap
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-### Phase 1: Python Basics (In Progress 🔥)
-
-<img align="left" alt="Python Learning" width="280" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
-
-```
-  [x] Install Python and development environment
-
-  [x] Learn variables, data types, and operators
-
-  [ ] Master conditional statements and loops
-
-  [ ] Understand functions and modules
-
-  [ ] Learn file operations and exception handling
-```
-<br clear="both">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
-</div>
-
-### Phase 2: Intermediate Learning (Planned 📝)
-
-<img align="right" alt="Advanced Coding" width="160" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-
-```
-  [ ] Object-Oriented Programming (OOP)
-
-  [ ] Common libraries (requests, pandas, etc.)
-
-  [ ] Data structures and algorithms basics
-
-  [ ] Introduction to web development
-```
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="500">
-</div>
-
-### Phase 3: Project Practice (Dreaming ✨)
-
-<img align="left" alt="Building Projects" width="230" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
-
-```
-  [ ] Build a command-line tool
-  [ ] Create a data analysis project
-  [ ] Develop a personal website
-  [ ] Try web scraping or automation scripts
-```
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MingRiOl&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-</div>
-
-## 💡 Learning Resources
-
-<img align="right" alt="Learning" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-📚 Resources I'm using:
-- [Python Official Documentation](https://docs.python.org/3/)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- [Real Python](https://realpython.com/)
-- [Python for Beginners](https://www.python.org/about/gettingstarted/)
-
-<br clear="both">
-
-## 🌟 Learning Philosophy
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
-</div>
-
-> "A journey of a thousand miles begins with a single step. Every expert was once a beginner!"
-
-As a programming newbie, I believe:
-- 💪 Persistence matters more than talent
-- 🐛 Debugging is the best teacher
-- 🤝 Community support makes learning fun
-- 📝 Writing code is the best way to learn
-
-## 📫 Connect With Me
-
-<div align="center">
-
-**Click the buttons below to reach out!**
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MingRiOl)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:L1390458068@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
 
 </div>
 
@@ -160,30 +65,204 @@ As a programming newbie, I believe:
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
----
+## 📈 Learning Roadmap
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+</div>
+
+### Phase 1: Python Basics (In Progress 🔥)
+
+![Progress](https://progress-bar.dev/40/?title=Progress&width=300&color=2e9ef7)
+
+- [x] Install Python and development environment 💻
+- [x] Learn variables, data types, and operators 🔢
+- [ ] Master conditional statements and loops 🔄
+- [ ] Understand functions and modules 🧩
+- [ ] Learn file operations and exception handling 📂
+
+### Phase 2: Intermediate Learning (Planned 📝)
+
+![Progress](https://progress-bar.dev/0/?title=Progress&width=300&color=bababa)
+
+- [ ] Object-Oriented Programming (OOP) 🏗️
+- [ ] Common libraries (requests, pandas, etc.) 📚
+- [ ] Data structures and algorithms basics 🧠
+- [ ] Introduction to web development 🌐
+
+### Phase 3: Project Practice (Dreaming ✨)
+
+![Progress](https://progress-bar.dev/0/?title=Progress&width=300&color=bababa)
+
+- [ ] Build a command-line tool 🛠️
+- [ ] Create a data analysis project 📊
+- [ ] Develop a personal website 🌐
+- [ ] Try web scraping or automation scripts 🤖
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 🚀 My Projects
+
+<div align="center">
+
+### 🔨 Coming Soon!
+
+*I'm working hard on my first project... Stay tuned!* 
+
+</div>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MingRiOl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e9ef7&icon_color=2e9ef7&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MingRiOl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MingRiOl&theme=tokyonight&hide_border=true&background=0d1117&ring=2e9ef7&fire=2e9ef7&currStreakLabel=2e9ef7)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 🏆 Learning Milestones
+
+| Date | Milestone | Description |
+|------|-----------|-------------|
+| 2026-02 | 🎉 Started Coding | Installed Python and VS Code |
+| 2026-02 | 📚 First Program | Wrote "Hello, World!" |
+| 🔜 | 🎯 Coming Soon | Complete first project |
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 💡 Learning Resources
+
+📚 Resources I'm currently using:
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://docs.python.org/3/">
+        <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="100px" alt="Python Official Documentation"/>
+      </a>
+      <br />
+      <strong>Python Official Documentation</strong>
+      <br />
+      <sub>The definitive guide to Python</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.w3schools.com/python/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg" width="100px" alt="W3Schools"/>
+      </a>
+      <br />
+      <strong>W3Schools Python Tutorial</strong>
+      <br />
+      <sub>Interactive tutorials with examples</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://realpython.com/">
+        <img src="https://raw.githubusercontent.com/realpython/design-assets/master/logos/logo-text.svg" width="100px" alt="Real Python"/>
+      </a>
+      <br />
+      <strong>Real Python</strong>
+      <br />
+      <sub>In-depth tutorials and articles</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.python.org/about/gettingstarted/">
+        <img src="https://www.python.org/static/community_logos/python-powered-w-200x80.png" width="100px" alt="Python for Beginners"/>
+      </a>
+      <br />
+      <strong>Python for Beginners</strong>
+      <br />
+      <sub>Getting started guide</sub>
+    </td>
+  </tr>
+</table>
+
+### 📖 Additional Resources
+
+- 🎥 YouTube: Python tutorials and coding challenges
+- 💬 Communities: r/learnpython, Stack Overflow
+- 📝 Practice: LeetCode, HackerRank (beginner problems)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 🌟 Learning Philosophy
+
+<div align="center">
+
+> *"A journey of a thousand miles begins with a single step."*  
+> *"Every expert was once a beginner!"*
+
+</div>
+
+As a programming newbie, I believe:
+
+- 💪 **Persistence matters more than talent** - Keep coding every day
+- 🐛 **Debugging is the best teacher** - Errors help me learn faster
+- 🤝 **Community support makes learning fun** - Let's grow together
+- 📝 **Writing code is the best way to learn** - Practice, practice, practice!
+- 🎯 **Small wins lead to big achievements** - Celebrate every milestone
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+**Let's connect and grow together!**
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MingRiOl)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:L1390458068@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+<div align="center">
+
+### ⭐️ If you're also a coding beginner, let's connect and learn together!
+
+**💬 Feel free to reach out for:**
+- 🤝 Collaboration on beginner projects
+- 💡 Sharing learning resources
+- 🐛 Debugging help (we can learn together!)
+- ☕ Just chatting about coding journey
+
+<br clear="both">
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<div align="center">
-  
-  **⭐️ If you're also a coding beginner, let's connect and grow together!**
-  
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-  
+💻 *"Code changes the world, learning never stops!"* 💻
+
+![Profile Views](https://komarev.com/ghpvc/?username=MingRiOl&color=2e9ef7&style=flat-square&label=Profile+Views)
+
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
----
-
 <div align="center">
-  
-💻 *"Code changes the world, learning never stops!"*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
